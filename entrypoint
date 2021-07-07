@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# remove any existing pid file
+rm -f /opt/graphite/storage/carbon-cache-a.pid
+
+# activate the virtual environment
+. /opt/graphite/bin/activate
+
+# actually run the cache
+exec /opt/graphite/bin/carbon-cache.py --debug start
