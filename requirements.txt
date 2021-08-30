@@ -11,5 +11,5 @@ hyperlink==21.0.0
 idna==3.2
 incremental==21.3.0
 six==1.16.0
-typing-extensions==3.10.0.0
+typing-extensions==3.10.0.1
 zope.interface==5.4.0
