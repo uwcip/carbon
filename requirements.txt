@@ -6,8 +6,9 @@ Twisted==21.7.0
 urllib3==1.26.7
 
 # transitive dependencies
-attrs==21.2.0
+attrs==21.4.0
 Automat==20.2.0
+cachetools==4.2.4
 constantly==15.1.0
 hyperlink==21.0.0
 idna==3.3
