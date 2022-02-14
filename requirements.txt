@@ -2,7 +2,7 @@
 cachetools<5
 
 # direct dependencies
-Twisted==21.7.0
+Twisted==22.1.0
 urllib3==1.26.8
 
 # transitive dependencies
@@ -14,5 +14,5 @@ hyperlink==21.0.0
 idna==3.3
 incremental==21.3.0
 six==1.16.0
-typing_extensions==4.0.1
+typing_extensions==4.1.1
 zope.interface==5.4.0
