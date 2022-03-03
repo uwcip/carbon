@@ -2,7 +2,7 @@
 cachetools<5
 
 # direct dependencies
-Twisted==22.1.0
+Twisted==22.2.0
 urllib3==1.26.8
 
 # transitive dependencies
